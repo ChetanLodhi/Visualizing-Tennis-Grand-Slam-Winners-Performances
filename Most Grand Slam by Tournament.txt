@@ -1,0 +1,12 @@
+|TOURNAMENT      |WINNER            |NUM_WINS |
+|:---------------|:-----------------|:--------|
+|French Open     |Rafael Nadal      |10       |
+|French Open     |Max Decugis       |8        |
+|U.S. Open       |William A. Larned |8        |
+|Wimbledon       |Roger Federer     |8        |
+|U.S. Open       |Richard D. Sears  |7        |
+|U.S. Open       |William T. Tilden |7        |
+|Wimbledon       |Pete Sampras      |7        |
+|Wimbledon       |William Renshaw   |7        |
+|Australian Open |Novak Djokovic    |6        |
+|Australian Open |Roy Emerson       |6        |

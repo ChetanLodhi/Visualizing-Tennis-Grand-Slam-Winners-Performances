@@ -1,0 +1,44 @@
+|WINNER            | NUM_WINS|
+|:-----------------|--------:|
+|Roger Federer     |       19|
+|Rafael Nadal      |       16|
+|Pete Sampras      |       14|
+|Novak Djokovic    |       12|
+|Roy Emerson       |       12|
+|Bjorn Borg        |       11|
+|Rod Laver         |       11|
+|William T. Tilden |       10|
+|Andre Agassi      |        8|
+|Fred Perry        |        8|
+|Henri Cochet      |        8|
+|Ivan Lendl        |        8|
+|Jimmy Connors     |        8|
+|Ken Rosewall      |        8|
+|Max Decugis       |        8|
+|William A. Larned |        8|
+|John McEnroe      |        7|
+|John Newcombe     |        7|
+|Mats Wilander     |        7|
+|Rene Lacoste      |        7|
+|Richard D. Sears  |        7|
+|William Renshaw   |        7|
+|Boris Becker      |        6|
+|Donald Budge      |        6|
+|Stefan Edberg     |        6|
+|Frank Sedgman     |        5|
+|Jack Crawford     |        5|
+|Jean Borotra      |        5|
+|Laurie Doherty    |        5|
+|Tony Trabert      |        5|
+|Andre Vacherot    |        4|
+|Anthony Wilding   |        4|
+|Ashley J. Cooper  |        4|
+|Frank Parker      |        4|
+|Guillermo Vilas   |        4|
+|Jim Courier       |        4|
+|Lewis Hoad        |        4|
+|Manuel Santana    |        4|
+|Pat O Hara Wood   |        4|
+|Paul Ayme         |        4|
+|Reggie Doherty    |        4|
+|Robert D. Wrenn   |        4|
